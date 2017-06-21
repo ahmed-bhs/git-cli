@@ -1,0 +1,5 @@
+git remote add origin https://github.com/bhss/web-server.git
+
+git pull origin master
+ 
+git push --set-upstream origin master
